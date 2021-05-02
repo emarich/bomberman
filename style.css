@@ -1,0 +1,13 @@
+#board {
+    width: 522px;
+    height: 602px;
+    margin: auto;
+    position: relative;
+    background-color: #aaaaaa;
+}
+
+#canvas {
+    border: 1px solid #7f7f7f;
+    margin-top: 80px;
+    background-color: #3fda6d;
+}
